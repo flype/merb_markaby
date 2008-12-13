@@ -1,0 +1,7 @@
+h1 "Hello, in Markaby!"
+
+p do
+  span "I'm #{@how_much}"
+  em "partial"
+  span "to #{@to_what}"
+end

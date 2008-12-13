@@ -1,0 +1,5 @@
+p do
+  span "I'm #{how}"
+  em "partial"
+  span "to #{what}"
+end

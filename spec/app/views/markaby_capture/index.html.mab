@@ -1,0 +1,9 @@
+h1 "Hello, in Markaby!"
+
+feelings = capture do
+  f = "I'm ever so"
+  f << " partial "
+  f << "to Markaby"
+end
+
+p feelings

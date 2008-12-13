@@ -1,0 +1,7 @@
+h1 "Hello, in Markaby!"
+p do
+  span "I'm"
+  partial :partial, :with => @how_much, :as => :how
+  em "partial"
+  span "to Markaby"
+end
