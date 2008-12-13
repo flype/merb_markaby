@@ -1,5 +1,5 @@
 require 'markaby'
-require 'lib/merb_markaby/template'
+require 'merb_markaby/template'
 
 # make sure we're running inside Merb
 if defined?(Merb::Plugins)
