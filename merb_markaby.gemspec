@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name     = "merb_markaby"
-  s.version  = "1.0.1"
+  s.version  = "1.0.2"
   s.date     = "2009-08-19"
   s.summary  = "merb_markaby"
   s.email    = "felipe.talavera@gmail.com"
