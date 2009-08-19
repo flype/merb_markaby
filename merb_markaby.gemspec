@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.homepage = "http://github.com/flype/merb_markaby.git"
   s.description = "it repository in and object oriented manner."
   s.has_rdoc = true
-  s.authors  = ["Felipe Talavera"]
+  s.authors  = ["Eric Watson"]
   s.files    = ["LICENSE", "Rakefile", "README", "lib/merb_markaby.rb", "lib/merb_markaby/merbtasks.rb", "lib/merb_markaby/template.rb"]
   s.test_files = []
   s.rdoc_options = ["--main", "README.txt"]
