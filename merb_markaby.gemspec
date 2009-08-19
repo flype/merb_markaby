@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name     = "merb_markaby"
-  s.version  = "1.0.0"
-  s.date     = "2008-12-13"
+  s.version  = "1.0.1"
+  s.date     = "2009-08-19"
   s.summary  = "merb_markaby"
   s.email    = "felipe.talavera@gmail.com"
   s.homepage = "http://github.com/flype/merb_markaby.git"
