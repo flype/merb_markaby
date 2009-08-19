@@ -5,6 +5,7 @@ module Merb::Template
     # path<String>:: A full path to the template
     # name<String>:: The name of the method that will be created
     # mod<Module>:: The module that the compiled method will be placed into
+
     def self.compile_template(path, name, mod)
       path = File.expand_path(path)
       template = ::Markaby::Template.new(File.read(path))
